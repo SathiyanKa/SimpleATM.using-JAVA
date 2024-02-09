@@ -17,3 +17,4 @@ This project, developed during my Java learning journey, is a simple ATM (Automa
 5.Static Variables and Methods
 
 
+![money-money-rain](https://github.com/SathiyanKa/SimpleATM.using-JAVA/assets/100779438/23bf9e6c-0c91-47fb-a68b-cc4dcea5215c)
